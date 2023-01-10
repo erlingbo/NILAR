@@ -21,7 +21,7 @@ I produksjon er kun **endepunkt 2** tilgjengelig.
 <p>NOTE: Headers gjelder ikke for <code>/metadata</code>.</p>
 
 <p>Nilar (forbigå proxy) headers <br /> 
-  <code>x-nilar-patient</code> med pasient sitt fnr
+  <code>x-nilar-patient</code> med pasient sitt fnr, <br />
   <code>x-nilar-requester</code> med requester sitt fnr/hpr,<br />
   <code>x-nilar-reason</code> med samtykkekode - default 0, <br />
   <code>x-nilar-correlation-Id</code> - helst guid, <br /></p>
